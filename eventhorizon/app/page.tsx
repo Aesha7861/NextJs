@@ -23,15 +23,15 @@ export default function Home() {
       <div className="blogs">
         <h2>Popular Event</h2>
         <div className="blogItem">
-          <h3>How to organize perfect Event?</h3>
+          <h3>How to organize perfect event?</h3>
             <p>Check the services page of our website for better idea!</p>
         </div>
         <div className="blogItem">
-          <h3>How to organize perfect Event?</h3>
+          <h3>How to organize perfect event?</h3>
             <p>Check the services page of our website for better idea!</p>
         </div>
         <div className="blogItem">
-          <h3>How to organize perfect Event?</h3>
+          <h3>How to organize perfect event?</h3>
             <p>Check the services page of our website for better idea!</p>
         </div>
       </div>
